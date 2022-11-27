@@ -193,8 +193,12 @@ fn main() {
             f.write(&buf).expect("write file failed");
             buf[0] as char
         } else {
-            f.write(format!("\\x{:02x}", buf[0]).as_bytes())
-                .expect("write file failed");
+            if buf[0] == 13 {
+                f.write("\r\n".as_bytes()).expect("write file failed");
+            } else {
+                f.write(format!("\\x{:02x}", buf[0]).as_bytes())
+                    .expect("write file failed");
+            }
             '#'
         };
         println!("Read: {0} {1:x}", c, buf[0]);

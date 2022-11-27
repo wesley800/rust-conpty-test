@@ -1,0 +1,45 @@
+\x1b[2J\x1b[?25l\x1b[m\x1b[H
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a
+\x0a\x1b[H\x1b]0;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe\x07\x1b[?25h\x1b[?25lWindows PowerShell\x1b[42X\x1b[42C
+\x0aCopyright (C) Microsoft Corporation. All rights reserved.   
+\x0a\x1b[60X\x1b[60C
+\x0aTry the new cross-platform PowerShell https://aka.ms/pscore6\x1b[6;1H\x1b[?25h\x1b[?25lPS C:\Users\user\Desktop> \x1b[?25h\x1b[?25l\x1b[?25h\x1b[?25l\x1b[93mdate
+\x0a\x1b[?25h\x1b[?25l\x1b[m
+\x0a1980\xe5\xb9\xb41\xe6\x9c\x881\xe6\x97\xa5 0:00:00      
+\x0a\x1b[28X\x1b[28C
+\x0a\x1b[28X\x1b[28C
+\x0aPS C:\Users\user\Desktop> \x1b[?25h\x1b[?25l
+PS C:\Users\user\Desktop> \x1b[93mecho\x1b[m 0123456789abcdefghijklmnopqrst0123456789abcdefg
+\x0ahijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456
+\x0a789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopq
+\x0arst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrstENDENDENDEN      \x1b[14;75H\x1b[?25h\x1b[?25l\x1b[11;1HPS C:\Users\user\Desktop> \x1b[93mecho\x1b[m 0123456789abcdefghijklmnopqrst0123456789abcdefg
+\x0ahijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456
+\x0a789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopq
+\x0arst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrstENDENDENDEND     
+\x0a0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghij
+\x0aklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789
+\x0aabcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst
+\x0a0123456789abcdefghijklmnopqrstENDENDENDEND\x1b[38X\x1b[38C
+\x0aPS C:\Users\user\Desktop> \x1b[52X\x1b[52C\x1b[19;29H\x1b[?25h

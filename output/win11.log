@@ -1,0 +1,6 @@
+\x1b[?25l\x1b[2J\x1b[m\x1b[HWindows PowerShell
+\x0aCopyright (C) Microsoft Corporation. All rights reserved.\x1b[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows\x1b[7;1H\x1b]0;C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe\x07\x1b[?25hPS C:\Users\user\Temp> \x1b[93mdate
+\x0a\x1b[m\x1b[?25l
+\x0a1980\xe5\xb9\xb41\xe6\x9c\x881\xe6\x97\xa5 0:00:00      \x1b[12;1HPS C:\Users\user\Temp> \x1b[?25h\x1b[93mecho \x1b[m0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrstENDENDENDEND
+\x0a0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrst0123456789abcdefghijklmnopqrstENDENDENDEND
+\x0aPS C:\Users\user\Temp> 
